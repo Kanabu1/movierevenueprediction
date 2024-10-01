@@ -3,7 +3,9 @@
 
 ## Overview
 
-This project aims to predict movie revenue using machine learning models. It involves data cleaning, preprocessing, feature engineering, model training, and evaluation. The dataset used is 'imdb_movies.csv'.
+This project focuses on predicting movie revenue using various machine learning models. The dataset used for this analysis is the 'imdb_movies.csv' file, which contains key information such as budget, revenue, genre, release dates, and crew details for each movie. The workflow involves multiple stages, including data cleaning, preprocessing, feature engineering, outlier detection, and model training, followed by model evaluation using regression metrics.
+
+The goal is to build a model that can accurately predict the revenue of a movie based on its attributes, using both simple linear regression and more complex models like Random Forest and Support Vector Regressor. The project attempts to create an effective predictive model.
 
 ## Steps Taken
 
