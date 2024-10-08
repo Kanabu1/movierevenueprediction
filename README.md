@@ -40,7 +40,7 @@ The goal is to build a model that can accurately predict the revenue of a movie 
    - Mean Squared Error (MSE) and R2 Score are used as evaluation metrics.
 
 7. **Hyperparameter Tuning (Commented Out):**
-   - The code includes a commented-out section for hyperparameter tuning of the Random Forest Regressor using GridSearchCV.
+   - The code includes a commented-out section for hyperparameter tuning of the Random Forest Regressor using GridSearchCV.Took to long to execute
 
 ## Insights/Findings
 
